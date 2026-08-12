@@ -1,7 +1,7 @@
 import { FaDownload, FaPlay } from "react-icons/fa";
 import { motion } from "framer-motion";
 import { Link } from "react-scroll";
-import profile from "../assets/profile.png";
+import profile from "../assets/Profile.png";
 
 function Hero() {
   return (
