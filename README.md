@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website built with React.js and Vite to 
 
 🚀 Live Demo
 
-"View Portfolio on Vercel" (YOUR-VERCEL-LINK)
+["View Portfolio on Vercel" (YOUR-VERCEL-LINK)](https://my-portfolio-kappa-gray-vmkhqi4qwd.vercel.app/)
 
 🛠️ Tech Stack
 
