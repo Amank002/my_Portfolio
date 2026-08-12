@@ -1,16 +1,101 @@
-# React + Vite
+Aman Kumar — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive personal portfolio website built with React.js and Vite to showcase my skills, projects, certifications, experience, and resume.
 
-Currently, two official plugins are available:
+🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+"View Portfolio on Vercel" (YOUR-VERCEL-LINK)
 
-## React Compiler
+🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Framer Motion
+- React Icons
 
-## Expanding the Oxlint configuration
+✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- Responsive modern design
+- Dark-themed UI
+- About Me section
+- Skills section
+- Projects showcase
+- Certifications & achievements
+- Experience section
+- Contact section
+- Resume view and download
+- Smooth scrolling navigation
+- Animated UI elements
+
+📂 Project Structure
+
+my_Portfolio/
+├── public/
+│   └── resume.pdf
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── About.jsx
+│   │   ├── Certificates.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Experience.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Projects.jsx
+│   │   └── Skills.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── index.html
+├── package.json
+└── vite.config.js
+
+💻 Run Locally
+
+Clone the repository:
+
+git clone https://github.com/Amank002/my_Portfolio.git
+
+Go to the project directory:
+
+cd my_Portfolio
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+Open the local URL shown in the terminal, usually:
+
+http://localhost:5173/
+
+📄 Resume
+
+The resume is available directly from the portfolio through the View Resume and Download Resume buttons.
+
+📬 Contact
+
+Aman Kumar
+
+- GitHub: https://github.com/Amank002
+- LinkedIn: https://www.linkedin.com/in/aman-kumar-7b37b7340
+- Email: amankum.tech2808@gmail.com
+
+📌 Deployment
+
+This project is deployed using Vercel.
+
+Live Website: YOUR-VERCEL-LINK
+
+📜 License
+
+This project is for personal portfolio and demonstration purposes.
